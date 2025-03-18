@@ -1,7 +1,7 @@
 # Challenge Amigo secreto
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dansware03/challenge-amigo-secreto_esp/main/assets/primer_desafio_one.webp" width="150" height="150" alt="Primer Desafio ONE">
+  <img src="https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png" width="150" height="150" alt="Primer Desafio ONE">
 </p>
 
 # Amigo secreto
